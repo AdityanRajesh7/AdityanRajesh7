@@ -1,7 +1,7 @@
 # hi, I'm Adityan 👋
 
-AI & Data Science student at **Amrita Vishwa Vidyapeetham**, Kollam, Kerala.  
-I explore the behavior of learning systems — how they optimize, generalize, and sometimes fail interestingly.
+I break things with code, fix them with data, and call it research.  
+Love to explore the behavior of learning systems — how they optimize, generalize, and sometimes fail in interesting manners.
 
 ---
 
@@ -29,18 +29,6 @@ I explore the behavior of learning systems — how they optimize, generalize, an
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| [🕹️ dqn-gridworld](https://github.com/AdityanRajesh7/dqn-gridworld) | Deep Q-Network from scratch in vanilla JS — watch a neural net learn to navigate in real time |
-| [🌩️ insat3dr-cloud-motion](https://github.com/AdityanRajesh7/insat3dr-cloud-motion) | Short-term cloud motion forecasting with UNet + diffusion models on INSAT-3DR satellite data |
-| [🐜 pheromone-path-optimizer](https://github.com/AdityanRajesh7/pheromone-path-optimizer) | Multi-robot path planning via adaptive Ant Colony Optimization with collision-aware velocity control |
-| [⚛️ QuantumAlgo](https://github.com/AdityanRajesh7/QuantumAlgo) | Quantum algorithms implemented in Qiskit with step-by-step visualizations |
-| [📈 Chaotic Neural Networks](https://github.com/697kiran/Chaotic_Neural_Networks_for_Stock_Price_Prediction) | Logistic map-augmented LSTM/GRU for SPY stock prediction — 51.4% RMSE reduction over baseline GRU |
 
 ---
 
