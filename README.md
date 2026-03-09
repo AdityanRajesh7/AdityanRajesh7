@@ -1,7 +1,7 @@
 # hi, I'm Adityan 👋
 
 AI & Data Science student at **Amrita Vishwa Vidyapeetham**, Kollam, Kerala.  
-I explore the theory and behavior of learning systems — how they optimize, generalize, and sometimes fail interestingly.
+I explore the behavior of learning systems — how they optimize, generalize, and sometimes fail interestingly.
 
 ---
 
