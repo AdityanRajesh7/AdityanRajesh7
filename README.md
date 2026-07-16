@@ -47,5 +47,3 @@ Love to explore the behavior of learning systems — how they optimize, generali
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=AdityanRajesh7&icon=2&color=4)](https://visitcount.itsvg.in)
